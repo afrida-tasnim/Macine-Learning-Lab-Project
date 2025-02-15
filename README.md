@@ -1,1 +1,3 @@
 # Macine-Learning-Lab-Project
+
+Customer segmentation using **K-Means clustering** is a machine learning technique that groups customers into distinct segments based on similar characteristics. It helps businesses understand customer behavior, preferences, and demographics by clustering them based on factors like purchasing patterns, spending habits, and engagement levels. K-Means assigns each customer to the nearest cluster centroid, iteratively refining the groups to minimize variance. This technique is widely used in marketing, personalization, and customer relationship management to improve targeting and decision-making.
